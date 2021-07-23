@@ -1,2 +1,2 @@
-# IBM_DataScience_FirstCapstone
-This is the first applied capstone project for IBM's Data Science Professional Certificate.
+# IBM_DataScience_Capstone
+These are the first, second, and third applied capstone project for IBM's Data Science Professional Certificate.
